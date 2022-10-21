@@ -10,13 +10,14 @@ body{
 }
 
 div#Main{
+    color: #e7e7e7;
     font-size: 30px;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/784/1010/450/circles-form-dark-background-wallpaper-preview.jpg");
+    background-image: url('picture/background.jpg');
 }
 
 div#Main button{
@@ -37,6 +38,7 @@ div#Main button a{
 }
 
 div#NavBar{
+    padding: 10px;
     display: flex;
     align-items: center;
     background-color: #101213;
